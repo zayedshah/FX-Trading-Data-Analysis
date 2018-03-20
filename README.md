@@ -5,3 +5,5 @@ Below are links to the analysis in nbviewer.
 [Year 2015 Analysis](http://nbviewer.jupyter.org/github/zayedshah/FX-Trading-Data-Analysis/blob/master/Part%201_2015.ipynb)
 
 [Year 2016 Analysis](http://nbviewer.jupyter.org/github/zayedshah/FX-Trading-Data-Analysis/blob/master/Part%202_2016.ipynb)
+
+[Year-on-Year Analysis for 2015 and 2016](http://nbviewer.jupyter.org/github/zayedshah/FX-Trading-Data-Analysis/blob/master/Part%203_2015_2016.ipynb)
