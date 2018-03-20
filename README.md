@@ -1,4 +1,4 @@
-You can veiw the analysis from my github page, but a better way is to view them using jupyter notebook viewer.
+The analysis can be viewed from my github page, but a better way is to view them using jupyter notebook viewer.
 
 Below are links to the analysis in nbviewer.
 
