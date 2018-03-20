@@ -1,4 +1,4 @@
-<b> FX Trading Data Analysis <b>
+<b> FX Trading Data Analysis </b>
 
 Using Python, Pandas, Matplotlib and Seaborn - I have analysed my FX trades from 2015 and 2016. In Part 1, I have analysed for 2015, in Part 2 - for 2016, and in Part 3, I have done a year-on-year analysis for those 2 years.
 
