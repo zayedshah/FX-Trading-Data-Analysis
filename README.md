@@ -15,3 +15,5 @@ Below are links to the analysis in nbviewer.
 [Part 3 - Year-on-Year Analysis for 2015 and 2016](http://nbviewer.jupyter.org/github/zayedshah/FX-Trading-Data-Analysis/blob/master/Part%203_2015_2016.ipynb)
 
 I have also put up the Trades dataset here - Trades 2015.xlsx and Trades 2016.xlsx, in case anyone wants to play around with it.
+
+I have converted the excel files to csv, and uploaded them here as well. CSV files get displayed better here.
